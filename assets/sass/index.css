@@ -1,0 +1,19 @@
+#nav .subnav {
+  min-width: 160px;
+  top: 100%;
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+#nav .subnav li:hover a {
+  color: #000;
+  background-color: #ccc;
+}
+
+.demo {
+  color: rgba(0, 0, 0, 0.3);
+}
+
+/*# sourceMappingURL=index.css.map */
