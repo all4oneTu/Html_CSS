@@ -235,7 +235,7 @@
         var mobileMenu = document.getElementById('mobile-menu');
         var headerHeight = header.clientHeight;
 
-        mobileMenu.onclick = function(){
+        mobileMenu.onclick = function(){ 
             var isClosed = header.clientHeight === headerHeight;
             if(isClosed) {
                 header.style.height = 'auto';

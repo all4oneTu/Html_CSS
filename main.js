@@ -1,2 +1,1 @@
-const lock = "hello"
-console.log(lock)
+const navigation = document.querySelector('#navigation');
